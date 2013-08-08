@@ -1,0 +1,4 @@
+\contentsline {chapter}{\numberline {1}Literature}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}History of film music and sound}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Historical trends and paths}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Historical film music practice and analysis}{3}{section.2.2}
