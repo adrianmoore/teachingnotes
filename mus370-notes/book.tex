@@ -1,0 +1,64 @@
+\documentclass{book}
+%trying to fit more on the page
+\usepackage{geometry}
+\geometry{a4paper, textwidth=17cm, textheight=23cm}
+
+\usepackage{natbib}
+\usepackage{listings}
+\usepackage{verbatim}
+\usepackage{array}
+\usepackage{amsmath, amsthm}
+\usepackage{graphviz}
+\usepackage{graphicx}
+\usepackage{makeidx}
+\usepackage{glossaries}
+\usepackage{hyperref} %take this out if you don't need links.
+\hypersetup{
+    colorlinks,%
+    citecolor=black,%
+    filecolor=black,%
+    linkcolor=black,%
+    urlcolor=black
+}
+
+\usepackage{url}
+\usepackage{float}
+\usepackage{fancybox}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+%use of the float package allows for \begin{table}[H] which will not allow text to be placed before the image.
+%\usepackage[english]{babel} % Quotes won't work without babel
+%\usepackage[utf8]{inputenc}  % This is very important!
+%usepackage[T1]{fontenc} % shite font
+%\usepackage{tabularx}
+\usepackage{multirow}
+%\usepackage{pdflscape}
+%\usepackage{rotating}
+
+%\input{glossaryentries}
+%\makeglossaries
+%test because text is emerging before graphics in some instances.
+%\raggedbottom
+%\includeonly{chap1, appen1}
+\begin{document}
+%\title{Undergraduate Handbook}
+%\author{The University of Sheffield \\ Department of Music\\}
+%\date{\today}
+%\maketitle
+
+\frontmatter
+\input{title}
+\tableofcontents
+
+\mainmatter
+\graphicspath{{images//}}
+\input{literature}
+\input{history}
+\input{examples}
+\bibliographystyle{apalike} 
+\bibliography{../../usss_coursebook/ajmbib}
+%\printglossary
+
+\backmatter
+%\printindex
+
+\end{document}
