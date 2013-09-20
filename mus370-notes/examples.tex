@@ -166,6 +166,11 @@ M/S pairs are suited to broadcast because they can be converted to mono without 
 \subsection{Ambisonics}
 Ambisonics is a method of capturing the sound in such a way as to preserve as much of the spatial image as possible. The sound is recorded with a special microphone (a sound field mic) and encoded to a 'B-format' stream. The B-format consists of 4 channels: named W, X, Y, and Z. B-format streams can be decoded with some fairly complex mathematics into any arbitrary playback array. So if you have a stereo speaker set it can be decoded to stereo. If you have a home cinema system it can be decoded into 5.1.
 
+A good starter reference is \citep[pp402-407]{rumsey2006sound} 
+
+USSS has a \href{http://www.core-sound.com/TetraMic/1.php}{TetraMic by Core Sound}
+This records A-Format signals (mic pickup)
+
 To decode into stereo:
 \begin{verbatim} 
 R = 0.7071 * W + 0.5 * Y
@@ -180,6 +185,9 @@ RL = 0.3536 * W + -0.3536 * X + 0.3536 * Y
 RR = 0.3536 * W + -0.3536 * X + -0.3536 * Y
 \end{verbatim}
 
+The full details of this process are here \url{http://www.blueripplesound.com/decoding}
+
+
 Ambisonics is used mainly in research, particularly the research of spatial sound. The following shows a closeup view of the Soundfield mic capsule and a polar plot of the pickup response of a B-Format stream.
 
 
@@ -188,6 +196,8 @@ Ambisonics is used mainly in research, particularly the research of spatial soun
 \includegraphics[scale=0.6]{Soundfield}\caption{Soundfield microhpone}
 \label{fig:soundfield}
 \end{figure}
+
+
 
 \begin{comment}
 
