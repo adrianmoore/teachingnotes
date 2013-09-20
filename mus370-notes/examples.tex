@@ -2,7 +2,18 @@
 \chapter{Sound Recording Practice}
 \label{examples}
 
-More examples
+\section{Cable}
+\subsection{Unbalanced cable}
+An unbalanced audio cdable has two conductors. One carries the audio signal and the other is the shield/ground. 
+
+\subsection{Balanced cable}
+Balanced audio requires XLR or TRS connectors with three cables (hot pin 2, cold pin3 and earth 1)
+As microphones operate at low voltage levels, it is possible to induce noise in the cable. Balancing a cable gets rid of this noise. A typical balanced cable contains two identical wires, which are twisted together and then wrapped with a third conductor that acts as a shield. One wire is in phase with respect to the source signal, the other wire is reversed in polarity, which is also referred to as being 180 out of phase at all frequencies. The in-phase wire is called non-inverting, positive or ``hot'' while the out-of-phase wire is called inverting, phase-inverted, anti-phase, negative or ``cold''. You have one signal in phase and one out of phase. Since the amplifier at the far end measures the difference in voltage between the two signal lines, noise induced (the same on both signals) is rejected.
+ 
+Therefore your signal voltage is doubled. (Because each wire essentially acts as the reference voltage for the other, with this `equal and opposite' signal format the differential input stage sees a signal which is twice the size of either signal individually: and this gives rise to the often talked about 6dB level hike it produces when compared to connecting the balanced output to an unbalanced destination.)
+
+The theory is based on the Wheatstone Bridge.
+
 \section{Microphones}
 Microphones convert sound energy to a changing electric current (a signal).
 Main classes of microphones:
@@ -166,10 +177,21 @@ M/S pairs are suited to broadcast because they can be converted to mono without 
 \subsection{Ambisonics}
 Ambisonics is a method of capturing the sound in such a way as to preserve as much of the spatial image as possible. The sound is recorded with a special microphone (a sound field mic) and encoded to a 'B-format' stream. The B-format consists of 4 channels: named W, X, Y, and Z. B-format streams can be decoded with some fairly complex mathematics into any arbitrary playback array. So if you have a stereo speaker set it can be decoded to stereo. If you have a home cinema system it can be decoded into 5.1.
 
-A good starter reference is \citep[pp402-407]{rumsey2006sound} 
+
+Ambisonics encodes sounds from all directions in terms of pressure and velocity components, and decodes these signals to a number of loudspeakers, with psychoacoustically optimised shelf filtering above 700Hz to correct for the shadowing effects of the head. Ambisonics might be considered as the theoretical successor to coincident stereo on two loudspeakers. A good starter reference is Rumsey \citep[pp402-407]{rumsey2006sound} 
 
 USSS has a \href{http://www.core-sound.com/TetraMic/1.php}{TetraMic by Core Sound}
-This records A-Format signals (mic pickup)
+This records A-Format signals (mic pickup) A,B,C and D. The A format consists of the four signals with four sub-cardioid capsules mounted on the four faces of a tetrahedron. So left-front (LF), right-front (RF), left-back (LB) and right-back (RB) (despite them pointing up and down). 
+
+B-format is made up from three figure-eight components (X,Y and Z) and an omni component (W). X is forward facing fig8. Y is sideways fig8. The X, Y and Z components have frontal, sideways and upwards gain of +3dB or root2 with relation to the W signal (0 dB). 
+
+\textbf{Deriving a B format signal from A format}
+\begin{verbatim} 
+X = 0.5((lf-lb)+(rf-rb))
+Y = 0.5((lf-rb)-(rf-lb))
+Z=0.5((lf-lb)+(rb))
+W = 0.5(lf+lb+rf+rb)
+\end{verbatim} 
 
 To decode into stereo:
 \begin{verbatim} 
