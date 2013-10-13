@@ -129,11 +129,21 @@ The score stage was a list of musical events, listed in the order of when they w
 This incarnation of the software allowed values to change gradually over specified amounts of time. In Mathews' Numerology (1960), the sound of piano gradually changes to that of a bowed string, and an ending during which the rate of note onsets increases to a rate unplayable by any human performer. This ability to gradually change parameters became one of the distinctive features of computer audio, in contrast to the distinctive feature of tape splicing that lent itself to quick juxtapositions of unrelated elements. Composer/historian Kyle Gann observes that many computer composers wrote pieces with a slower unfolding as a result, experimenting with gradually changing parameters.
 
 \section{Stanford}
-n 1969, Stanford University in Palo Alto, CA, began holding summer computer workshops, and Stanford quickly blossomed as a leading center for computer music. In 1963, Stanford graduate student John Chowning (1934-) had read Max Mathews' article in Science. He was interested enough to take a course in computer programming and to travel to Bell Labs in the summer of 1964 to meet Mathews. Mathews gave Chowning a copy of Music IV -- which was in the form of a box full of roughly 3,000 punchcards, and a note saying "Good luck!"
+n 1969, Stanford University in Palo Alto, CA, began holding summer computer workshops, and Stanford quickly blossomed as a leading center for computer music. In 1963, Stanford graduate student John Chowning (1934-) had read Max Mathews' article in Science. He was interested enough to take a course in computer programming and to travel to Bell Labs in the summer of 1964 to meet Mathews. Mathews gave Chowning a copy of Music IV -- which was in the form of a box full of roughly 3,000 punchcards, and a note saying ``Good luck!''
 
 Chowning returned to Stanford, where he teamed up with a colleague in computer science. They managed to get Music IV running on one of the computer science's computers, and were able to use a computer in the artificial intelligence laboratory to convert the samples into sound. The two computers shared the same disc space, so that the first computer could generate the samples, store them to disc, and the second computer could read the samples from the same disc and convert them to sound. This was the first integrated computer music system in the world.
 
 In 1966 Chowning received his doctorate in composition at Stanford and joined the faculty. By then, he and his colleagues had re-written Music IV to a version that they called Music 10 (since it was to run on a PDP-10 computer), and a program called SCORE that created note lists for Music 10. Chowning had also created a program with which he program trajectory paths and the computer could create corresponding amplitude changes among four loudspeakers to simulate the motion.
+
+\subsection{John Chowning (1934)}
+\begin{itemize}
+\item Phon\'e (1980-81) FM made at Stanford (previously developed at IRCAM in 1979)
+\item Turenas (1972) - First piece to use FM in full form.
+\item Stria (1977) 
+\item Sabelithe (1966-1971)
+\end{itemize}
+
+\url{https://ccrma.stanford.edu/people/john-chowning}
 
 Chowning also made attempts to improve the static nature of the sounds that the computer was producing. In 1967, he began to experiment with vibrato. With a computer, vibrato could both be applied in extreme amounts, and also with precise control. He could be far more systematic than it was possible to be with analog circuits. He noticed that as the vibrato rate and depth increased, the effect transformed from a change in pitch to a change in timbre, and that as he changed the frequencies of both his audio oscillator and his modulating oscillator, it would produce evolving spectra.
 
@@ -147,7 +157,21 @@ Chowning continued work in simulating the movement of sound objects through spac
 
 Exploring Risset's ideas, Chowning also found that with FM he could produce effective brass and bell timbres with just two oscillators. By modulating the amplitude of the modulator, he could create dynamic spectral changes along the lines of Risset's research that showed bandwidth to be amplitude-dependent. Stanford's office of technology licensing explored relationships with a number of organ companies, such as Hammond, Wurlitzer and Lowry, but none understood what he was doing enough to show any interest. By chance, a representative from the Japanese company Yamaha was in California. Stanford contacted him, and he arranged for Yamaha to license the technology for a year. In 1973, Chowning, on a sabattical in Europe, wrote a paper on the process that appeared in the Journal of the Audio Engineering Society. This represented a new addition to synthesis methodology, a new approach along with additive and subtractive synthesis. The value was not understood by the Stanford music department who, dismayed over his lack of musical output, dismissed him. Chowning got a grant to work in Germany, although there was not a computer system available such as the one at Stanford. Yamaha, meanwhile, developed the first digital synthesizer, and asked Stanford for a ten-year license to develop FM further. Yamaha obtained the license for the technique in 1974. Stanford, embarrassed, quickly hired Chowning as a research associate.
 
-By this time, a number of researchers at Stanford were working in psychoacoustics, analysis, digital recording, and computer hardware and software. In 1975 they procured grants from the National Science Foundation and the National Endowment for the Arts to create a digital synthesizer. Chowning got support from the music department to form CCRMA (pronounced "karma" -- Center for Computer Research in Music and Acoustics). It was (and is) a multi-disciplinary center to study interactions of engineering, psychology, acoustics, and music. The digital computer arrived in 1977, which enabled them to run Music IV in real time, and produce up to 256 simultaneous, separately controllable sound sources.
+By this time, a number of researchers at Stanford were working in psychoacoustics, analysis, digital recording, and computer hardware and software. In 1975 they procured grants from the National Science Foundation and the National Endowment for the Arts to create a digital synthesizer. Chowning got support from the music department to form CCRMA (pronounced ``karma'' -- Center for Computer Research in Music and Acoustics). It was (and is) a multi-disciplinary center to study interactions of engineering, psychology, acoustics, and music. The digital computer arrived in 1977, which enabled them to run Music IV in real time, and produce up to 256 simultaneous, separately controllable sound sources.
+
+\section{MUSIC N and computers}
+\begin{itemize}
+\item 1957: Music I (Max Mathews)
+\item 1958: Music II 4 voices and wavetable synthesis
+\item 1960: Music III (sco and orc) - computer used IBM7090 mainframe
+\item Music IV (music IVb at Princeton) - Hubert Howe - use of higher level languages such as FORTRAN
+\item Barry Vercoe at MIT Music 360 (IBM 360 mainframe) and Music 11 for the DEC PDP-11 (written in C). Prior to this most was written in Assembler (JSR JMP etc.)
+\item Paul Lansky at Princeton wrote \textit{mix} later \textit{cmix}
+\item 1969 Mathews released Music V, then GROOVE and Graphic 1 (secondary tools)
+\item 1980s Vercoe - Csound
+\end{itemize}
+
+
 
 \section{IRCAM}
 In 1969, Georges Pompidou became president of France. Among his top priorities was a desire that "Paris possess a cultural center that would be both a museum and a center of creation, where visual arts would coexist with music, cinema, books, and audio-visual research."
@@ -169,7 +193,27 @@ In 1974 Max Mathews was made scientific advisor. He would spend a few months in 
 
 In 1975 Berio brought Guiseppe Di Giugno to Paris from Naples. Di Giugno was a physics teacher at the University of Naples who had become interested in electroacoustic music after hearing Switched on Bach in 1969, and begun creating his own instruments after meeting Bob Moog at a physics conference in 1971. He had formed an electronic music group in 1973. Berio contacted him in 1974, and they began discussing the creation of a digital synthesizer. Berio had joked that the nine oscillators he had in Milan weren't enough, how he'd rather have 1000. Berio arranged to introduce him to Max Mathews, and eventually Di Guigno came to IRCAM to work on a digital synthesizer. He begins the 4 series of digital synthesizers. The 4A in 1976 had increased numbers of oscillators. The 4B in 1977 had interconnections between the oscillators so that they could interact.
 
-In 1977, after completing pieces such as Inharmonique, Risset left IRCAM, finding that there was a great deal of PR, with more of a focus on public appearances, concerts, and less on long term research. In 1978, Risset left to work academia on research projects.
+In 1977, after completing pieces such as Inharmonique, Risset left IRCAM, finding that there was a great deal of PR, with more of a focus on public appearances, concerts, and less on long term research. In 1978, Risset left to work on research projects.
+
+\subsection{Jean Claude-Risset (b.1938)} 
+Cd \textit{Elementa}
+\begin{itemize}
+\item Avel (1997) - stereo
+\item Laurai (1992) - for harp and tape
+\item Trois etudes en duo (1991) - for disklavier (computer aided composition)
+\item Invisible Irene (1995) - stereo (SAN commission)
+\item Elementa (1998) - four channel
+\end{itemize}
+
+Cd \textit{SUD (ina-grm)}
+\begin{itemize}
+\item Sud (three movements) 1985 - stereo
+\item Dialogues - 1975 Mixed music (flute, clarinet, piano, perc, bande)
+\item Inharmonique - 1977 Voice sounds and synthesis
+\item Mutations - 1969 all synthesis made at Bell Labs \textbf{but commissioned from the GRM}
+\end{itemize}
+
+
 
 In 1978 the software program CHANT was created by Xavier Rodet, who had been inspired by reading Risset's papers to create a talking computer. He showed a prototype to Gerald Bennett at IRCAM in 1977. The two of them worked with acoustician Johan Sundberg to develop the idea. They researched formant frequencies of vocalists, writing CHANT as a way to model the voice. The program used a simulation of the vocal tract as a synthesis method. It could simulate vocals through analyses carried out every 10 ms. It was extremely computation-intensive.
 
