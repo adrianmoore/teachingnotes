@@ -1,4 +1,30 @@
 \contentsline {chapter}{\numberline {1}Literature}{1}{chapter.1}
 \contentsline {chapter}{\numberline {2}History of film music and sound}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}Historical trends and paths}{3}{section.2.1}
-\contentsline {section}{\numberline {2.2}Historical film music practice and analysis}{3}{section.2.2}
+\contentsline {subsection}{\numberline {2.1.1}Venues and ensembles}{3}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Early Epics}{4}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Music for comedy}{4}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Music specifically for film}{4}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}The soundtrack}{4}{subsection.2.1.5}
+\contentsline {section}{\numberline {2.2}Hollywood}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}Key figures}{5}{section.2.3}
+\contentsline {section}{\numberline {2.4}Sound of Cinema (BBC)}{6}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}episode 1}{6}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}episode 2}{6}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}episode 3}{7}{subsection.2.4.3}
+\contentsline {section}{\numberline {2.5}Well known films and their composers}{8}{section.2.5}
+\contentsline {section}{\numberline {2.6}Historical film music practice and analysis}{8}{section.2.6}
+\contentsline {section}{\numberline {2.7}Three modes of listening}{9}{section.2.7}
+\contentsline {section}{\numberline {2.8}Sound and silence}{9}{section.2.8}
+\contentsline {subsection}{\numberline {2.8.1}The Punch}{9}{subsection.2.8.1}
+\contentsline {subsection}{\numberline {2.8.2}Synchresis}{9}{subsection.2.8.2}
+\contentsline {subsection}{\numberline {2.8.3}Space}{9}{subsection.2.8.3}
+\contentsline {subsection}{\numberline {2.8.4}Time}{9}{subsection.2.8.4}
+\contentsline {subsection}{\numberline {2.8.5}Phonogeny}{9}{subsection.2.8.5}
+\contentsline {chapter}{\numberline {3}Case studies}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}Case Study 1: Michael Giacchino}{11}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}John Carter}{11}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Case Study 2: Bernard Hermann}{11}{section.3.2}
+\contentsline {chapter}{\numberline {4}Multimedia}{13}{chapter.4}
+\contentsline {chapter}{\numberline {5}Game audio}{15}{chapter.5}
+\contentsline {chapter}{\numberline {6}Film scoring examples}{17}{chapter.6}

@@ -1,5 +1,10 @@
 \begin{thebibliography}{}
 
+\bibitem[Adler and Hesterman, 1989]{adler1989study}
+Adler, S. and Hesterman, P. (1989).
+\newblock {\em The study of orchestration}.
+\newblock WW Norton.
+
 \bibitem[Chion, 1990]{chion1990}
 Chion, M. (1990).
 \newblock {\em Audio-Vision: Sound on Screen}.
@@ -30,10 +35,25 @@ Farnell, A. (2010).
 \newblock {\em Designing Sound}.
 \newblock The MIT Press.
 
+\bibitem[Gorbman, 1987]{gorbman1987unheard}
+Gorbman, C. (1987).
+\newblock {\em Unheard melodies: Narrative film music}.
+\newblock BFI Pub.
+
+\bibitem[Piston et~al., 1978]{piston1978harmony}
+Piston, W., DeVoto, M., and Jannery, A. (1978).
+\newblock {\em Harmony}.
+\newblock Norton New York.
+
 \bibitem[Prendergast, 1992]{prendergast1992film}
 Prendergast, R. (1992).
 \newblock {\em Film music: A neglected art}.
 \newblock WW Norton \& Co.
+
+\bibitem[Schoenberg, 1978]{schoenberg1978theory}
+Schoenberg, A. (1978).
+\newblock {\em Theory of harmony}.
+\newblock Univ of California Press.
 
 \bibitem[Thompson and Bowen, 2009]{thompson2009grammar}
 Thompson, R. and Bowen, C. (2009).
