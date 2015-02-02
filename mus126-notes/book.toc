@@ -1,9 +1,13 @@
-\contentsline {chapter}{\numberline {1}Opera}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}Romanticism and Puccini: La Boh\`eme}{1}{section.1.1}
-\contentsline {chapter}{\numberline {2}Ballet Music}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}Impressionism and Debussy: Jeux}{3}{section.2.1}
-\contentsline {section}{\numberline {2.2}Modernism and Stravinsky: The Rite of Spring}{3}{section.2.2}
-\contentsline {chapter}{\numberline {3}Expressionism and Serialism}{5}{chapter.3}
-\contentsline {section}{\numberline {3.1}Schoenberg: Pierrot Lunaire}{5}{section.3.1}
-\contentsline {section}{\numberline {3.2}Berg: Wozzeck}{5}{section.3.2}
-\contentsline {section}{\numberline {3.3}Webern: Concerto for nine instruments Op. 24}{5}{section.3.3}
+\contentsline {chapter}{\numberline {1}The Romantic Symphony}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Brahms Symphony No 1 }{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Bruckner Symphony No 4 (1874)}{1}{section.1.2}
+\contentsline {chapter}{\numberline {2}Opera}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Romanticism and Puccini: La Boh\`eme}{3}{section.2.1}
+\contentsline {chapter}{\numberline {3}Ballet Music}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}Impressionism and Debussy: Jeux}{5}{section.3.1}
+\contentsline {section}{\numberline {3.2}The power of the new}{5}{section.3.2}
+\contentsline {section}{\numberline {3.3}Modernism and Stravinsky: The Rite of Spring}{5}{section.3.3}
+\contentsline {chapter}{\numberline {4}Expressionism and Serialism}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}Schoenberg: Pierrot Lunaire}{7}{section.4.1}
+\contentsline {section}{\numberline {4.2}Berg: Wozzeck}{7}{section.4.2}
+\contentsline {section}{\numberline {4.3}Webern: Concerto for nine instruments Op. 24}{7}{section.4.3}

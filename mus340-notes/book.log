@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.4.5)  17 OCT 2014 14:50
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.4.5)  23 OCT 2014 10:30
 entering extended mode
  %&-line parsing enabled.
 **book
@@ -304,7 +304,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )
-(/etc/texmf/tex/latex/config/hyperref.cfg
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 (/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
@@ -501,7 +501,7 @@ LaTeX Info: Redefining \pageref on input line 43.
 
 \AtBeginShipoutBox=\box40
  (./title.tex
-<tuoslogo_cmyk_hi.jpg, id=123, 1079.03125pt x 426.59375pt>
+<tuoslogo_cmyk_hi.jpg, id=127, 1079.03125pt x 426.59375pt>
 File: tuoslogo_cmyk_hi.jpg Graphic file (type jpg)
 
 <use tuoslogo_cmyk_hi.jpg> [1
@@ -537,13 +537,15 @@ Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
  [6] [7] [8]) (./casestudies.tex [9] [10]
 Chapter 3.
-) (./multimedia.tex [11
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+[11
 
-] [12
-
-]
+]) (./multimedia.tex [12]
 Chapter 4.
-) (./games.tex [13] [14
+) (./games.tex [13
+
+] [14
 
 ]
 Chapter 5.
@@ -566,10 +568,10 @@ This document will not have a glossary.
 
 (./book.aux) ) 
 Here is how much of TeX's memory you used:
- 8505 strings out of 495061
- 121197 string characters out of 1182622
+ 8507 strings out of 495061
+ 121259 string characters out of 1182622
  228807 words of memory out of 3000000
- 11440 multiletter control sequences out of 15000+50000
+ 11441 multiletter control sequences out of 15000+50000
  7691 words of font info for 28 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  38i,10n,36p,1110b,371s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -581,9 +583,9 @@ exlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts
 c/amsfonts/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10.p
 fb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on book.pdf (24 pages, 462967 bytes).
+Output written on book.pdf (24 pages, 464315 bytes).
 PDF statistics:
- 380 PDF objects out of 1000 (max. 8388607)
- 77 named destinations out of 1000 (max. 500000)
- 246 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 385 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 500000)
+ 254 words of extra memory for PDF output out of 10000 (max. 10000000)
 

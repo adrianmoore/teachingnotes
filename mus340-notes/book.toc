@@ -25,6 +25,7 @@
 \contentsline {section}{\numberline {3.1}Case Study 1: Michael Giacchino}{11}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}John Carter}{11}{subsection.3.1.1}
 \contentsline {section}{\numberline {3.2}Case Study 2: Bernard Hermann}{11}{section.3.2}
+\contentsline {section}{\numberline {3.3}Case Study 3: Stanley Kubrick}{11}{section.3.3}
 \contentsline {chapter}{\numberline {4}Multimedia}{13}{chapter.4}
 \contentsline {chapter}{\numberline {5}Game audio}{15}{chapter.5}
 \contentsline {chapter}{\numberline {6}Film scoring examples}{17}{chapter.6}
