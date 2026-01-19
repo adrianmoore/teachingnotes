@@ -1,31 +1,61 @@
-\contentsline {chapter}{\numberline {1}Literature}{1}{chapter.1}
-\contentsline {chapter}{\numberline {2}History of film music and sound}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}Historical trends and paths}{3}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Venues and ensembles}{3}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Early Epics}{4}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}Music for comedy}{4}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}Music specifically for film}{4}{subsection.2.1.4}
-\contentsline {subsection}{\numberline {2.1.5}The soundtrack}{4}{subsection.2.1.5}
-\contentsline {section}{\numberline {2.2}Hollywood}{4}{section.2.2}
-\contentsline {section}{\numberline {2.3}Key figures}{5}{section.2.3}
-\contentsline {section}{\numberline {2.4}Sound of Cinema (BBC)}{6}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}episode 1}{6}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}episode 2}{6}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}episode 3}{7}{subsection.2.4.3}
-\contentsline {section}{\numberline {2.5}Well known films and their composers}{8}{section.2.5}
-\contentsline {section}{\numberline {2.6}Historical film music practice and analysis}{8}{section.2.6}
-\contentsline {section}{\numberline {2.7}Three modes of listening}{9}{section.2.7}
-\contentsline {section}{\numberline {2.8}Sound and silence}{9}{section.2.8}
-\contentsline {subsection}{\numberline {2.8.1}The Punch}{9}{subsection.2.8.1}
-\contentsline {subsection}{\numberline {2.8.2}Synchresis}{9}{subsection.2.8.2}
-\contentsline {subsection}{\numberline {2.8.3}Space}{9}{subsection.2.8.3}
-\contentsline {subsection}{\numberline {2.8.4}Time}{9}{subsection.2.8.4}
-\contentsline {subsection}{\numberline {2.8.5}Phonogeny}{9}{subsection.2.8.5}
-\contentsline {chapter}{\numberline {3}Case studies}{11}{chapter.3}
-\contentsline {section}{\numberline {3.1}Case Study 1: Michael Giacchino}{11}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}John Carter}{11}{subsection.3.1.1}
-\contentsline {section}{\numberline {3.2}Case Study 2: Bernard Hermann}{11}{section.3.2}
-\contentsline {section}{\numberline {3.3}Case Study 3: Stanley Kubrick}{11}{section.3.3}
-\contentsline {chapter}{\numberline {4}Multimedia}{13}{chapter.4}
-\contentsline {chapter}{\numberline {5}Game audio}{15}{chapter.5}
-\contentsline {chapter}{\numberline {6}Film scoring examples}{17}{chapter.6}
+\contentsline {chapter}{\numberline {1}Literature}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Activities, resources, information}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Scoring simple tunes}{3}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}The triangle of film}{3}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Simple examples to analyse and score}{3}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Sunshine - sci-fi film}{3}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Using scoring programs}{4}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Using sample libraries}{4}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}Harmony}{4}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}Orchestration}{4}{subsection.2.1.7}%
+\contentsline {section}{\numberline {2.2}Writing something more experimental}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Visual Music}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Opportunities}{5}{section.2.4}%
+\contentsline {section}{\numberline {2.5}FAQ}{5}{section.2.5}%
+\contentsline {chapter}{\numberline {3}History of film music and sound}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Historical trends and paths}{7}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Venues and ensembles}{7}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Early Epics}{8}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Music for comedy}{8}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Music specifically for film}{8}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}The soundtrack}{8}{subsection.3.1.5}%
+\contentsline {section}{\numberline {3.2}Hollywood}{8}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Key figures}{9}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Sound of Cinema (BBC)}{10}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}episode 1}{10}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}episode 2}{10}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}episode 3}{11}{subsection.3.4.3}%
+\contentsline {section}{\numberline {3.5}Well known films and their composers}{12}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Important changes in Musical Style}{12}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Synthesizers and computers}{13}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Historical film music practice and analysis}{13}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Three modes of listening}{13}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Sound and silence}{13}{section.3.10}%
+\contentsline {subsection}{\numberline {3.10.1}The Punch}{13}{subsection.3.10.1}%
+\contentsline {subsection}{\numberline {3.10.2}Synchresis}{13}{subsection.3.10.2}%
+\contentsline {subsection}{\numberline {3.10.3}Space}{13}{subsection.3.10.3}%
+\contentsline {subsection}{\numberline {3.10.4}Time}{14}{subsection.3.10.4}%
+\contentsline {subsection}{\numberline {3.10.5}Phonogeny}{14}{subsection.3.10.5}%
+\contentsline {chapter}{\numberline {4}Syntax}{15}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Michel Chion's terminology}{15}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Michel Chion \textit {Audio Vision} with examples}{15}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Post Chion: Martin Stig Andersen and \textit {Rocketman(2007)}}{16}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Reading a film}{16}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Understanding aspects of footage}{16}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Harmony and Counterpoint}{17}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Examples and links}{17}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Jazz chords}{17}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Modes}{19}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Chords in Modes}{21}{subsection.4.4.4}%
+\contentsline {chapter}{\numberline {5}Case studies}{23}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Case Study 1: Michael Giacchino}{23}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}John Carter}{23}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Star Trek}{23}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Case Study 2: Bernard Herrmann}{23}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Example of melody writing in \textit {Vertigo}}{24}{subsection.5.2.1}%
+\contentsline {section}{\numberline {5.3}Case Study 3: Stanley Kubrick}{25}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Case Study 4: Jerry Goldsmith}{25}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Early Case Studies}{26}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Multimedia}{27}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Game audio}{29}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Film scoring examples}{31}{chapter.8}%
